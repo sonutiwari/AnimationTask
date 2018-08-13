@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animation Task</string>
+    <string name="click_me">Click Me</string>
+    <string name="sonu">Sonu</string>
+    <string name="tiwari">Tiwari</string>
+    <string name="click_for_left_to_right_transition">Click for Left to Right Transition</string>
+    <string name="bottom_up_transition">Bottom Up Transition</string>
+</resources>
